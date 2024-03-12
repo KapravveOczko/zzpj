@@ -1,0 +1,1 @@
+rootProject.name = "zzpj_plugin_v2"
